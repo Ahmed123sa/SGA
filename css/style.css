@@ -282,6 +282,8 @@ background-color: var(--main-color);
 @media (max-width:767px){
     .portfolio .imgs-container .box img{
         padding: 5px 0;
+        height: 300px;
+        width: 100%;
     }
 }
 .portfolio .imgs-container .box .caption{
